@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prueba Kotlin</string>
+    <string name="welcome">Welcome %s</string>
+</resources>
